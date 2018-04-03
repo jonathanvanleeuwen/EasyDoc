@@ -35,7 +35,7 @@ exampleFuncDoc.txt
 exampleClassDoc.txt
 
 
-**See the wiki for copy pased output**
+**See the wiki for copy pasted output**
 
 
 
