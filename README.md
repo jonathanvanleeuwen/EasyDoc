@@ -32,6 +32,7 @@ Use the docsToText function in easyDoc
 Returns: 2 .txt files
 
 exampleFuncDoc.txt
+
 exampleClassDoc.txt
 
 
