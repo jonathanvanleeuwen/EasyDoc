@@ -25,9 +25,9 @@ A file called 'example.py' containing the following two functions and 1 class.
 
 Use the docsToText function in easyDoc
 
->>> filename = 'example.py'
+´>>> filename = 'example.py'´
 
->>> docsToText(filename)
+´>>> docsToText(filename)´
 
 Returns: 2 .txt files
 
