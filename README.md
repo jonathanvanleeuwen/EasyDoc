@@ -9,6 +9,8 @@ Assumes all indents are 4 spaces.
 The .txt files are written in the same directory as the python file
 
 
+See wiki for example output (the .txt output has been copy pasted to wiki page)
+
 Notes:
 Assumes that it is going to be posted to a github wiki and does some formating
 Returns a list of functions and the doc in a .txt file. 
@@ -25,6 +27,7 @@ A file called 'example.py' containing the following two functions and 1 class.
 Use the docsToText function in easyDoc
 
 >>> filename = 'example.py'
+
 >>> docsToText(filename)
 
 Returns: 2 .txt files
