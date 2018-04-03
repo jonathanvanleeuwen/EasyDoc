@@ -161,7 +161,7 @@ def docsToText(fileName):
     writeFuncDoc(funcDoc, fileName)
     writeClassDoc(classDoc, fileName)
 
-fileName = 'C:/Users/User1/Desktop/example.py'
+fileName = 'example.py'
 docsToText(fileName)
 
 
